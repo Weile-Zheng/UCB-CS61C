@@ -12,6 +12,12 @@ The 2020 version was chosen because all lectures linked on the webpage are open 
 
 - **Video Resources**: [CS61C -S20 Lecture Playlist](https://www.youtube.com/playlist?list=PLDoI-XvXO0aqgoMQvogzmf7CKiSMSUS3M)
 
+Starters (Code needed for Labs and Projects):
+[Lab Starter](https://github.com/61c-teach/su20-lab-starter)
+[Project 1](https://github.com/61c-teach/su20-proj1-starter)
+[Project 2](https://github.com/61c-teach/su20-proj2-starter)
+[Project 3](https://github.com/61c-teach/su20-proj3-starter)
+
 <br />
 
 ***
