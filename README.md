@@ -14,6 +14,7 @@ The 2020 version was chosen because all lectures linked on the webpage are open 
 
 - **Reading Resources**: [CS61C Spring 2022 Page](https://inst.eecs.berkeley.edu/~cs61c/sp22/) Although videos links on this page aren't available they have direct links to readings that are the same as S20
 
+
 Starters (Code needed for Labs and Projects):
 
 [Lab Starter](https://github.com/61c-teach/su20-lab-starter)
