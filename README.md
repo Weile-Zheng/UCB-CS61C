@@ -28,7 +28,7 @@ Use *Course Webpage* for accessing lectures, lecture slides, discussion workshee
 
 Use *Reading Resources* for links to additional readings and reading slides that are the same as S20 but not available on S20 webpage.
 
-Use *Starters* when for completing labs and projects. Clone the repository to your machine.
+Use *Starters* for completing labs and projects. Clone the repository to your machine.
 
 External links are included below every week for important concepts that were unclear in lectures.
 
