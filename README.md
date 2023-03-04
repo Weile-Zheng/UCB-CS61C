@@ -30,7 +30,7 @@ Use *Reading Resources* for links to additional readings and reading slides that
 
 Use *Starters* when for completing labs and projects. Clone the repository to your machine.
 
-External links are included below every week for important concepts that went through too fast in the lecture.
+External links are included below every week for important concepts that were unclear in lectures.
 
 Send pull request to add more information. It's appreciate that if anyone would like to join me.
 <br />
