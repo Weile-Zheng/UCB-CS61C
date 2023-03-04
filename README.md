@@ -1,4 +1,4 @@
-# Berkeley CS61C Notes & Progress
+# Berkeley CS61C Self-Study Guide/Progress
 ### Great Ideas in Computer Architecture(Machine Structures): 
 
 
