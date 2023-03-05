@@ -5,5 +5,6 @@ int main() {
     for (int j = 0; j < sizeof(a); j++) {
         total += a[j];
     }
+    printf("size: %lu", sizeof(a));
     printf("sum of array is %d\n", total);
 }

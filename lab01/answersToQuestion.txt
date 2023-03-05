@@ -1,0 +1,6 @@
+Why didn’t the no_segfault_ex program segfault?
+- The program did not segfault because the program is not trying to acces memory that it not available to it. The forloop will increment out of the range of int(a) 
+Why does the no_segfault_ex produce inconsistent outputs?
+- Because the sizeof is greater than 5, the total will keep be added outside of the array continue down the memory address.
+Why is sizeof incorrect? How could you still use sizeof but make the code correct?
+- The size of is incorrect because it returns 20. Because the array is of type int, and each int holds 4 bytes in memory, five of them will then be 20 bytes. You can divide sizeof(a) by 5 to make it right.
